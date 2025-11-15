@@ -21,7 +21,7 @@ Explore my projects and coding journey here. 👨‍💻
 <p>
 
 <!-- 右下角的统计图 -->
-<img width="60%" align="right" src="https://github-readme-stats-gk51dzv19-absinthes-projects-4bb906c3.vercel.app/api?username=Absinthe1311&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true" />
+<img width="60%" align="right" src="https://github-readme-stats-five-mocha-69.vercel.app/api?username=Absinthe1311&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true" />
 
 ### 🛠 My Skills
 
